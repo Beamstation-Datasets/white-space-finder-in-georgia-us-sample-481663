@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Georgia that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Georgia, US",
+  "export_job_id": "e29f23d2-c9a2-407b-bae1-a44dc7e6f2df",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 481663,
+  "location_name": "Georgia",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-georgia-us-sample-481663",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/481663/beamstation_481663_food_and_drink-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 8.7,
+  "sample_records": 2,
+  "sample_sha256": "7072311f682ed9989a4587c9e2c52f15e7b694ba546020ed68e7328d1b40ca2a",
+  "sample_size_bytes": 24096,
+  "total_records": 23,
+  "updated_at": "2026-04-07T14:57:14.414210+00:00"
+}
