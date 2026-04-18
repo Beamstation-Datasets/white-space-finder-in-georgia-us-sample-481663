@@ -9,9 +9,9 @@
 | Dataset ID | `481663` |
 | Location | Georgia |
 | Category | Restaurants |
-| Full dataset size | 23 records |
-| Free sample size | 2 records (8.7%) |
-| Last export | 2026-04-07T14:57:14.414210+00:00 |
+| Full dataset size | 22 records |
+| Free sample size | 2 records (9.09%) |
+| Last export | 2026-04-14T21:28:43.719993+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-georgia-us-sample-481663/releases/download/sample-latest/beamstation_481663_food_and_drink-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
