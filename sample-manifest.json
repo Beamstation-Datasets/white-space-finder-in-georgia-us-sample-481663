@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ae2bb5a3-d1dd-45a0-b16a-53b381235413",
+  "export_job_id": "70ef4501-8404-4429-80ae-7d2e987fb458",
   "id_short": 481663,
-  "published_at": "2026-04-18T19:11:35Z",
+  "published_at": "2026-04-22T07:33:12Z",
   "repo_name": "white-space-finder-in-georgia-us-sample-481663",
   "sample_asset_name": "beamstation_481663_food_and_drink-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/481663/beamstation_481663_food_and_drink-us-ga_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "99c87d11996d63359f53e682815d4e61e39b1be10a3d2793c8e996f3b88828f5",
-  "sample_size_bytes": 24136,
-  "total_records": 22
+  "sample_sha256": "c60f73df5f9f1875860aa08ddc5cf62634bf0a3c83e9a749d64e66ca760bb32c",
+  "sample_size_bytes": 23504,
+  "total_records": 21
 }
